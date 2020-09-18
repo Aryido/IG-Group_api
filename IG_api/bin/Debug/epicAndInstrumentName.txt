@@ -1,0 +1,28 @@
+IX.D.EMGMKT.IFD.IP:Emerging Markets Index
+IX.D.CANNABIS.IFD.IP:Cannabis Index
+IX.D.FANG.IFD.IP:US Fang Cash ($50)
+IX.D.StoxxBank.FNI2.IP:Eu Stocks Banks Index (50 EUR)
+IX.D.FTSE.FWS2.IP:FTSE 100 (£10)
+IX.D.DOW.FWS.IP:Wall Street ($10)
+IX.D.DAX.FWS2.IP:Germany 30 (€25)
+IX.D.SPTRD.FWS2.IP:US 500 ($250)
+IX.D.ASX.FWS.IP:Australia 200 (A$25)
+IX.D.XINHUA.IFD.IP:China A50 Cash ($1)
+IX.D.STXE.FWS2.IP:EU Stocks 50 (€10)
+IX.D.CAC.FWS2.IP:France 40 (€10)
+KB.D.MID250.CASH.IP:FTSE Mid 250
+IX.D.HSCHIN.IFD.IP:China H-Shares Cash (HK50)
+IX.D.MIB.FWS2.IP:Italy 40 (€5)
+IX.D.NIKKEI.IFD.IP:Japan 225 Cash ($5)
+TM.D.BOVESPA.IFD.IP:Brazil 60
+IX.D.AEX.FWS1.IP:Netherlands 25 (€200)
+IX.D.PSI20.IFD.IP:Portugal 20 (€1)
+IX.D.RUSSELL.FWS1.IP:US Russell 2000 ($50)
+IX.D.SINGAPORE.IFD.IP:Singapore Blue Chip Cash (SD100)
+IX.D.SAF.IFDX.IP:South Africa 40 Cash (R50)
+IX.D.IBEX.FWS2.IP:Spain 35 (€10)
+IX.D.OMX.FWS2.IP:Sweden 30 (SK100)
+KB.D.TK.CASH.IP:Techmark
+IX.D.NASDAQ.FWS2.IP:US Tech 100 ($100)
+IX.D.NIFTY.IFD.IP:India 50 Cash ($10)
+IX.D.DEN25.IFD.IP:Denmark 25 (DKK100 Contract)
