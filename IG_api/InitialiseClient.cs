@@ -14,9 +14,9 @@ namespace IG_api
         private static class LoginInfo
         {
             public readonly static string env = "live";
-            public readonly static string user = "ARYIDO1993";
-            public readonly static string pwd = "aryido.Am04g123";
-            public readonly static string apikey = "c502789073bd0890cec6f72b21d7c193523a1a3c";
+            public readonly static string user = "XXX";
+            public readonly static string pwd = "XXX";
+            public readonly static string apikey = "XXX";
 
         }
 
